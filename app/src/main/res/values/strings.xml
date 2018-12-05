@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="next_step">Next Step</string>
+    <string name="previous_step">Previous Step</string>
+    <string name="start_cooking">Start Cooking</string>
+    <string name="placeholder_image">Placeholder image</string>
+    <string name="kilogram_icon">Kilogram icon</string>
+    <string name="checked_icon">Checked icon</string>
+    <string name="recipe_icon">Recipe icon</string>
+    <string name="baking_is_over">Baking is over!</string>
+    <string name="you_will_ingredients_of_latest_recipe_you_open_here">You will ingredients of latest recipe you open here</string>
+    <string name="see_next_step">see next step!</string>
+    <string name="close_button_x">Close button X</string>
+    <string name="no_internet_connection">Ooops! Couldn\'t get the recipes! Please, check your connection!</string>
+    <string name="retry">Retry</string>
+    <string name="exit">Exit</string>
+</resources>
